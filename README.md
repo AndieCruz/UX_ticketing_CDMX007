@@ -4,7 +4,7 @@ A través de la investigación y de las entrevistas con usuarios, llegamos a la 
 Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 ### 4 W's
-![4 w's](https://ibb.co/VDKWbzM)
+
 <a href="https://ibb.co/VDKWbzM"><img src="https://i.ibb.co/0Zwj16Y/Squad-TAMA-4-w-s.jpg" alt="Squad-TAMA-4-w-s" border="0"></a>
 
 
