@@ -4,7 +4,7 @@ A través de la investigación y de las entrevistas con usuarios, llegamos a la 
 Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 ### 4 W's
-![4 w's](url=https://ibb.co/VDKWbzM)[img]https://i.ibb.co/0Zwj16Y/Squad-TAMA-4-w-s.jpg[/img][/url]
+![4 w's](https://ibb.co/VDKWbzM)
 ### 5 why's?
 ### HMW
 ¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
