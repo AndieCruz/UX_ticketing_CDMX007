@@ -1,3 +1,17 @@
+## Definición del problema
+
+### 4 W's
+### 5 why's?
+### HMW
+¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
+
+### Cluster
+
+### Big ideas
+
+### Value preposition canvas
+
+
 # Venta de boletos para espectáculos
 
 A muchas personas nos encantan los espectáculos: conciertos, obras de teatro, partidos de fútbol, partidos de basquetbol, circos, entre otros. Sin embargo, en muchos casos, conseguir boletos para estos espectáculos, no siempre es la mejor experiencia que podamos esperar en el 2019. 
