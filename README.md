@@ -1,9 +1,15 @@
 ## Definición del problema
+A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir. 
+
+Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 ### 4 W's
+[url=https://ibb.co/VDKWbzM][img]https://i.ibb.co/0Zwj16Y/Squad-TAMA-4-w-s.jpg[/img][/url]
 ### 5 why's?
 ### HMW
 ¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
+¿Cómo podríamos hacer que Ticketmaster proporcione calma al usuario que se preocupa por no perder su boleto?
+
 
 ### Cluster
 
