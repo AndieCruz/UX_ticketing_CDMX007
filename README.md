@@ -108,6 +108,7 @@ Realizamos el flujo de compra en tan solo tres pasos en la versión responsive d
 El kit de supervivencia fue diseñado y desarrollado por [Nohemí Moreno](https://github.com/Mimilaos)
 
 Aquí pueden consultar el [prototipo](https://marvelapp.com/i299gij/screen/58128021) final de nuestra solución.
+También realizamos un [vídeo](https://www.youtube.com/watch?v=D0Tu0t9STYA) del prototipo final.
 
 # Venta de boletos para espectáculos
 
