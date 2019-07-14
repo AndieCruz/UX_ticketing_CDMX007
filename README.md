@@ -10,13 +10,21 @@ Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 ### 5 why's?
 ### HMW
-¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
-¿Cómo podríamos hacer que Ticketmaster proporcione calma al usuario que se preocupa por no perder su boleto?
+* ¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
+* ¿Cómo podríamos hacer que Ticketmaster proporcione calma al usuario que se preocupa por no perder su boleto?
+
+Una vez que desarrollamos nuestras preguntas a resolver, entramos a la etapa de ideación.
 
 
 ### Cluster
+[url=https://imgbbb.com/image/3KCMr][img]https://imgbbb.com/images/2019/07/14/Cluster.jpg[/img][/url]
+
 
 ### Big ideas
+Surgieron dos grandes ideas:
+* Reducir la compra del evento a solo tres pasos en el sitio responsive web de Ticketmaster.
+* Generar un boleto digital personalizado que se guarda en la aplicación móvil Wallet Ticketmaster, de forma segura e intransferible.
+* Brindarle al usuario un "Kit de supervivencia" con información valiosa y útil.
 
 ### Value preposition canvas
 
