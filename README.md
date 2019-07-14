@@ -1,20 +1,73 @@
+# Venta de boletos para espectáculos
+
+A muchas personas nos encantan los espectáculos: conciertos, obras de teatro, partidos de fútbol, partidos de basquetbol, circos, entre otros. Sin embargo, en muchos casos, conseguir boletos para estos espectáculos, no siempre es la mejor experiencia que podamos esperar en el 2019. 
+
+La venta oficial de entradas en taquilla, obliga a los usuarios a enfrentarse a traslados, largas filas y revendedores. En un esfuerzo por garantizar al usuario una mejor experiencia en la compra de boletos, las empresas han invertido en plataformas online a través de las cuales los usuarios puedan realizar transacciones mucho más seguras y sencillas. Además, privilegios para clientes de bancos, tales como la posibilidad de pagar boletos a meses sin intereses o las preventas exclusivas, también han impactado en la experiencia.
+
+Algunas de las principales empresas que operan en el mercado internacional de venta de boletos incluyen a Razorgato, StubHub, Ticketmaster, Garrapata Fandango, AOL Inc ., Atom Tickets LLC, Fandango, Movietickets.com, Grandes cines, Cinemark Holdings Inc ., BookMyShow.com, Vue Entertainment, Mtime y Kyazoonga.
+
+## Reto
+ 
+En este reto entenderemos los distintos problemas relacionados a la venta de boletos para espectáculos, tanto del lado de las personas que utilizan el servicio como del lado del negocio.  
+
+El mayor actor en el mercado de venta de boletos nos ha contactado para rediseñar su plataforma. [Ticketmaster](https://www.ticketmaster.com.mx/) opera en México desde principios de los 90, mediante un acuerdo para el uso y expansión de la marca por parte de CIE con su contraparte Ticketmaster USA.  En la última década, la expansión de las conexiones a internet, los teléfonos móviles, las redes sociales y los emprendimientos digitales han creado nuevas formas de competir en este mercado y ahora tenemos empresas como Eventbrite, Meetup.com, Facebook o Boletia compitiendo en este sector. Ticketmaster no se quiere quedar a atrás y está buscando modernizar su plataforma. 
+
+Ticketmaster no ha realizado aún una investigación formal, pero algunos de los problemas que escuchan frecuentemente son los siguientes:
+
+* “Es súper complicado comprar entradas en su web”
+* “Nunca me acuerdo cuál es mi usuario de Ticketmaster”
+* “Soy extranjero y mi tarjeta nunca es aceptada”
+* “No sé dónde puedo recoger mis boletos”
+* “Es casi imposible que una persona distinta a la que compró el boleto lo recoja”
+* “Te cobran por todo: comisión al comprar el boleto, comisión por método de entrega del boleto, cargo en tu tarjeta al recogerlo.”
+* “En teléfono esperé unos 80 minutos para que me atendieran.” 
+* “ODIO que te hagan ir a recoger tus boletos, se me hace del año del caldo, deberían de mandarte QR y ya! Lo mismo, el servicio al teléfono es terrible, te dan mil anuncios y no te dicen nada”
+* “Me parece absurdo que te hagan recoger el boleto!!!! Y si no es por QR Code, mínimo que puedas recogerlo en el mismo establecimiento del concierto y el mismo día!! Para que vayas y listo. Cuando te mandan a otro lugar y en otras fechas tengo ganas de llorar”
+
+
+Como parte del reto, Ticketmaster nos ha pedido que hagamos lo siguiente:
+
+- Entender a los usuarios actuales del mercado de boletos
+- Entender el mercado actual de venta de boletos en México y en el Mundo.
+- Crear, testear, iterar (muchas veces) una nueva propuesta del diseño de la plataforma: 
+  dependiendo de los problemas que identifiques, puedes elegir uno o varios de ellos para re-diseñar
+- Crear y testear el flujo de la plataforma
+- Presentar dos propuestas de diseño para ese flujo
+
+
 # Investigación cualitativa
 
-Nos enfocamos en encontrar
+Comenzó con la oportunidad de hacer estudios de referencia de la industria ticketing. Al momento del lanzamiento del proyecto, observamos problemas muy claros en los que pudimos enfocarnos. Pero no habríamos involucrado la data que nos comunica las denuncias o el número de gente que termina la compra en los distintos portales, estudios de usuarios, etcétera. Se halló el comportamiento *on line* de los consumidores en México como problemáticas políticas, sociales y económicas como la reventa y comparativas del portal Tickemaster y su crecimiento en otros países. En palabras coloquiales diríamos que nos centramos en entender “lo bueno, lo malo y lo feo de Ticketmaster”. En general, la investigación de UX es importante porque clarifica las preguntas desde muchas partes involucradas. Con las siguientes herramientas, definimos un problema sustentado en necesidades reales, y definimos las características necesarias para abordar esas necesidades y priorizamos los cambios que deben efectuarse. 
 
 ### Encuestas
 
 Para empezar a conocer a los usuarios establecimos iniciar una investigación cuantitativa mediante un formulario / cuestionario escrito. Del cual recabamos 43 respuestas que nos permitió abordar los primeros aspectos emocionales y cognitivos de personas que han comprado boletos para eventos o espectáculos en plataformas digitales. 
 
+[Resultados de las 43 encuestas](https://drive.google.com/open?id=1IfPQ5F1rQf0Hq-ik-p-XmX5braHf5Otm)
+
 
 ### Benchmark
 
-Nos enfocamos en la búsqueda de patrones y tendencias de otras plataformas 
+Nos enfocamos en la búsqueda de patrones y tendencias de otras plataformas para comparar y revisar los flujos de compra así como de diseño visual y de interfaz para ayudar a nuestros usuarios a encontrar cuál es el mejor para su experiencia de compra. Por lo que hicimos una evaluación profunda de la experiencia de usuario y simulación de compra ofrecida de más de tres empresas líderes. 
+
+[Utilizamos una cuadrícula de 11 criterios para evaluar la experiencia del usuario ofrecida por los proveedores de ticketing incluídos en nuestro estudio](https://drive.google.com/open?id=1t3GJfYVaidFsPfmZPauM_zh9denh-3IQ)
+
 
 ### Entrevistas y tests de usabilidad
 
 Al encontrarnos con que la plataforma de Ticketmaster tenía severos pains de flujo de compra como de diseño visual de la misma. Para develar las emociones reales de nuestros usuarios y con el objetivo de profundizar en entender la lógica cognitiva y de comportamientos de los encuestados, entrevistamos a cinco personas donde les pedimos información fundamental que pudiesen llegar a encontrar al usar la plataforma actual de Ticketmaster. Se les pidió que compraran un boleto para Corona Capital 2019 y utilizamos la herramienta “Think Out Loud” donde ellos compartían en voz alta lo que iban sintiendo o pensando de lo que estaba aconteciendo. Terminando las entrevistas recopilamos, analizamos la información obtenida.
 Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedirle al usuario que realice una tarea y al menos con cinco usuarios podemos detectar el 85% de errores de usabilidad. El camino que continuaba era encontrar maneras de reducir ese 85% de errores para centrarnos en encontrar alguno de gran impacto para el mayor número de personas usuarias. 
+
+[Test model canvas resultado de algunos flujos de compra](https://drive.google.com/open?id=1NPafW_0-SN_fQDlaVGyyBn6HHXNSlSb-)
+
+[Test model canvas resultado de algunos flujos de compra](https://drive.google.com/open?id=1reiQx4DtdTM8Xn5GZ9jWgPaHfv8uRMFC)
+
+#User journey map
+
+El mapeo de viaje del usuario es una forma de deconstruir la experiencia de un usuario con el servicio Ticketmaster, en este caso. Nos ayudó a pensar en las necesidades de los usuarios de manera efectiva, identificando los puntos débiles y las oportunidades de una manera sistemática y directa. Para esta parte, simulamos una compra desde el portal de Ticketmaster para hacer nuestras propias anotaciones sobre el viaje de compra. También basamos el journey map en la experiencia de una de las personas entrevistadas.
+
+[User journey map](https://drive.google.com/open?id=1JObneoJwcQIY6KAf7Dnixwb6-nWSbKy1)
+
 
 
 # Define 
@@ -120,39 +173,3 @@ También realizamos un [vídeo](https://www.youtube.com/watch?v=D0Tu0t9STYA), en
 - Talía GyG - [Unatal](https://github.com/UnaTal)
 - Nohemí Moreno - [Mimilaos](https://github.com/Mimilaos)
 
-
-# Venta de boletos para espectáculos
-
-A muchas personas nos encantan los espectáculos: conciertos, obras de teatro, partidos de fútbol, partidos de basquetbol, circos, entre otros. Sin embargo, en muchos casos, conseguir boletos para estos espectáculos, no siempre es la mejor experiencia que podamos esperar en el 2019. 
-
-La venta oficial de entradas en taquilla, obliga a los usuarios a enfrentarse a traslados, largas filas y revendedores. En un esfuerzo por garantizar al usuario una mejor experiencia en la compra de boletos, las empresas han invertido en plataformas online a través de las cuales los usuarios puedan realizar transacciones mucho más seguras y sencillas. Además, privilegios para clientes de bancos, tales como la posibilidad de pagar boletos a meses sin intereses o las preventas exclusivas, también han impactado en la experiencia.
-
-Algunas de las principales empresas que operan en el mercado internacional de venta de boletos incluyen a Razorgato, StubHub, Ticketmaster, Garrapata Fandango, AOL Inc ., Atom Tickets LLC, Fandango, Movietickets.com, Grandes cines, Cinemark Holdings Inc ., BookMyShow.com, Vue Entertainment, Mtime y Kyazoonga.
-
-## Reto
- 
-En este reto entenderemos los distintos problemas relacionados a la venta de boletos para espectáculos, tanto del lado de las personas que utilizan el servicio como del lado del negocio.  
-
-El mayor actor en el mercado de venta de boletos nos ha contactado para rediseñar su plataforma. [Ticketmaster](https://www.ticketmaster.com.mx/) opera en México desde principios de los 90, mediante un acuerdo para el uso y expansión de la marca por parte de CIE con su contraparte Ticketmaster USA.  En la última década, la expansión de las conexiones a internet, los teléfonos móviles, las redes sociales y los emprendimientos digitales han creado nuevas formas de competir en este mercado y ahora tenemos empresas como Eventbrite, Meetup.com, Facebook o Boletia compitiendo en este sector. Ticketmaster no se quiere quedar a atrás y está buscando modernizar su plataforma. 
-
-Ticketmaster no ha realizado aún una investigación formal, pero algunos de los problemas que escuchan frecuentemente son los siguientes:
-
-* “Es súper complicado comprar entradas en su web”
-* “Nunca me acuerdo cuál es mi usuario de Ticketmaster”
-* “Soy extranjero y mi tarjeta nunca es aceptada”
-* “No sé dónde puedo recoger mis boletos”
-* “Es casi imposible que una persona distinta a la que compró el boleto lo recoja”
-* “Te cobran por todo: comisión al comprar el boleto, comisión por método de entrega del boleto, cargo en tu tarjeta al recogerlo.”
-* “En teléfono esperé unos 80 minutos para que me atendieran.” 
-* “ODIO que te hagan ir a recoger tus boletos, se me hace del año del caldo, deberían de mandarte QR y ya! Lo mismo, el servicio al teléfono es terrible, te dan mil anuncios y no te dicen nada”
-* “Me parece absurdo que te hagan recoger el boleto!!!! Y si no es por QR Code, mínimo que puedas recogerlo en el mismo establecimiento del concierto y el mismo día!! Para que vayas y listo. Cuando te mandan a otro lugar y en otras fechas tengo ganas de llorar”
-
-
-Como parte del reto, Ticketmaster nos ha pedido que hagamos lo siguiente:
-
-- Entender a los usuarios actuales del mercado de boletos
-- Entender el mercado actual de venta de boletos en México y en el Mundo.
-- Crear, testear, iterar (muchas veces) una nueva propuesta del diseño de la plataforma: 
-  dependiendo de los problemas que identifiques, puedes elegir uno o varios de ellos para re-diseñar
-- Crear y testear el flujo de la plataforma
-- Presentar dos propuestas de diseño para ese flujo
