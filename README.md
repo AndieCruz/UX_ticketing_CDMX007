@@ -2,7 +2,7 @@
 
 Nos enfocamos en encontrar
 
-## Encuestas
+### Encuestas
 
 Para empezar a conocer a los usuarios establecimos iniciar una investigación cuantitativa mediante un formulario / cuestionario escrito. Del cual recabamos 43 respuestas que nos permitió abordar los primeros aspectos emocionales y cognitivos de personas que han comprado boletos para eventos o espectáculos en plataformas digitales. 
 
@@ -17,7 +17,7 @@ Al encontrarnos con que la plataforma de Ticketmaster tenía severos pains de fl
 Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedirle al usuario que realice una tarea y al menos con cinco usuarios podemos detectar el 85% de errores de usabilidad. El camino que continuaba era encontrar maneras de reducir ese 85% de errores para centrarnos en encontrar alguno de gran impacto para el mayor número de personas usuarias. 
 
 
-## Define 
+# Define 
 
 Ahora, empezamos a crear categorías con los datos obtenidos. Las coincidencias las agrupamos en ejes de comportamiento. 
 
@@ -61,7 +61,7 @@ Karen viaja a cualquier parte del país para asistir a los grandes festivales, p
 
 El punto focal es el boleto y ante una garantía que responsabiliza completamente a los usuarios sobre la posesión de los boletos, ¿qué pasaría si este deja de ser un punto de dolor? y sigue fomentando la memoria.
 
-## Definición del problema
+# Definición del problema
 A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD QUE EXISTE ALREDEDOR DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir, de principio a fin. 
 
 Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
