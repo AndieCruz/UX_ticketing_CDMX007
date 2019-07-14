@@ -9,7 +9,7 @@ Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 ### 4 W's
 
-<a href="https://ibb.co/VDKWbzM"><img src="https://i.ibb.co/0Zwj16Y/Squad-TAMA-4-w-s.jpg" alt="Squad-TAMA-4-w-s" border="0"></a>
+![4ws](https://imgbbb.com/images/2019/07/14/Squad-TAMA---4-ws.jpg)
 
 ### HMW
 * ¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
