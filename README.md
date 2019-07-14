@@ -1,3 +1,66 @@
+# Investigación cualitativa
+
+Nos enfocamos en encontrar
+
+## Encuestas
+
+Para empezar a conocer a los usuarios establecimos iniciar una investigación cuantitativa mediante un formulario / cuestionario escrito. Del cual recabamos 43 respuestas que nos permitió abordar los primeros aspectos emocionales y cognitivos de personas que han comprado boletos para eventos o espectáculos en plataformas digitales. 
+
+
+### Benchmark
+
+Nos enfocamos en la búsqueda de patrones y tendencias de otras plataformas 
+
+### Entrevistas y tests de usabilidad
+
+Al encontrarnos con que la plataforma de Ticketmaster tenía severos pains de flujo de compra como de diseño visual de la misma. Para develar las emociones reales de nuestros usuarios y con el objetivo de profundizar en entender la lógica cognitiva y de comportamientos de los encuestados, entrevistamos a cinco personas donde les pedimos información fundamental que pudiesen llegar a encontrar al usar la plataforma actual de Ticketmaster. Se les pidió que compraran un boleto para Corona Capital 2019 y utilizamos la herramienta “Think Out Loud” donde ellos compartían en voz alta lo que iban sintiendo o pensando de lo que estaba aconteciendo. Terminando las entrevistas recopilamos, analizamos la información obtenida.
+Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedirle al usuario que realice una tarea y al menos con cinco usuarios podemos detectar el 85% de errores de usabilidad. El camino que continuaba era encontrar maneras de reducir ese 85% de errores para centrarnos en encontrar alguno de gran impacto para el mayor número de personas usuarias. 
+
+
+## Define 
+
+Ahora, empezamos a crear categorías con los datos obtenidos. Las coincidencias las agrupamos en ejes de comportamiento. 
+
+* Ejes de comportamiento 
+
+<a href="https://ibb.co/C2TsQWj"><img src="https://i.ibb.co/746NKb3/Ejes-de-comportamiento.jpg" alt="Ejes-de-comportamiento" border="0"></a>
+
+Un ingrediente especial para definir a las personas de diseño fue la pasión por asistir a los eventos, especialmente a  los conciertos o festivales. Es un factor determinante en las costumbres de compra, pues los usuarios se aprenden los procesos de la plataforma web y han generado “trucos” para hacerlo de manera eficiente. Experimentamos con las combinaciones de los ejes para obtener arquetipos: 
+
+<a href="https://ibb.co/1LXS46F"><img src="https://i.ibb.co/ZVgZbmq/eje.png" alt="eje" border="0"></a>
+
+Decidimos tomar como referencia las características:
+* Eje Y: Experiencia al elegir método de entrega.
+* Eje X: Planeación de compra de boletos.
+
+Las particularidades que definen a cada sector de la matriz fueron útiles para pensar en las necesidades de acuerdo a cada perfil. Nos inclinamos por reconocer la  perspectiva de acuerdo al modo en cómo se involucran en la compra de los boletos.
+
+<a href="https://ibb.co/ZYfyPct"><img src="https://i.ibb.co/cCyzH2M/arquetipo4.jpg" alt="arquetipo4" border="0"></a>
+
+Determinamos que nuestras personas objetivo serían aquellas con características semejantes a Lisa Simpson:
+
+<a href="https://ibb.co/TtvX6D1"><img src="https://i.ibb.co/kXHnjVJ/lisi.png" alt="lisi" border="0"></a>
+
+Tomando en consideración estas características, elaboramos un user persona.
+
+<a href="https://ibb.co/cg9dKTX"><img src="https://i.ibb.co/7YDFxyN/user-persona.jpg" alt="user-persona" border="0"></a>
+
+Fue preciso plantear el escenario en el que la boletera aparece en la experiencia total de Karen. 
+
+El siguiente paso, fue mapear su travesía. En resumen:
+
+* Su viaje comenzó cuando compró desde la página web de Ticketmaster (la única boletera que gestionaría su evento), una vez realizada su compra, tiene que ir a recoger sus boletos físicos y guardarlos muy bien. Viaja emocionada y llega a casa de un familiar, amigo o airbnb en la ciudad del evento. El día del evento, se da cuenta que no trae consigo el boleto. Se presenta en el recinto con la esperanza de comprar un boleto en reventa. Con suerte, lo obtiene y le cuesta más de lo que inicialmente gastó.
+
+<a href="https://ibb.co/XxdvnLw"><img src="https://i.ibb.co/WvdYr5T/journey-antes.jpg" alt="journey-antes" border="0"></a>
+<a href="https://ibb.co/pr16y3Q"><img src="https://i.ibb.co/sJgpHFC/journey-durante.jpg" alt="journey-durante" border="0"></a>
+<a href="https://ibb.co/B2339qs"><img src="https://i.ibb.co/zVxxzGf/journey-despu-s.jpg" alt="journey-despu-s" border="0"></a>
+
+Karen viaja a cualquier parte del país para asistir a los grandes festivales, por lo cual es importante reconocer los puntos de dolor y por otro lado, detectar aquellos en donde la boletera puede generar el ¡wow!. Mostramos a detalle los tres momentos: 
+
+<a href="https://ibb.co/RCGFrCs"><img src="https://i.ibb.co/JzW16zG/mapear.png" alt="mapear" border="0"></a>
+
+El punto focal es el boleto y ante una garantía que responsabiliza completamente a los usuarios sobre la posesión de los boletos, ¿qué pasaría si este deja de ser un punto de dolor? y sigue fomentando la memoria.
+
 ### User Persona
 
 ![UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
