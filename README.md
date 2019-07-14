@@ -64,12 +64,6 @@ Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedir
 
 ### User journey map
 
-El mapeo de viaje del usuario es una forma de deconstruir la experiencia de un usuario con el servicio Ticketmaster, en este caso. Nos ayudó a pensar en las necesidades de los usuarios de manera efectiva, identificando los puntos débiles y las oportunidades de una manera sistemática y directa. Para esta parte, simulamos una compra desde el portal de Ticketmaster para hacer nuestras propias anotaciones sobre el viaje de compra. También basamos el journey map en la experiencia de una de las personas entrevistadas.
-
-[User journey map](https://drive.google.com/open?id=1JObneoJwcQIY6KAf7Dnixwb6-nWSbKy1)
-
-
-
 # Define 
 
 Ahora, empezamos a crear categorías con los datos obtenidos. Las coincidencias las agrupamos en ejes de comportamiento. 
@@ -97,10 +91,11 @@ Determinamos que nuestras personas objetivo serían aquellas con característica
 ### User Persona
 Tomando en consideración estas características, elaboramos un user persona.
 ![UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
+ 
+### Journey Map
+El mapeo de viaje del usuario es una forma de deconstruir la experiencia de un usuario con el servicio Ticketmaster, en este caso. Nos ayudó a pensar en las necesidades de los usuarios de manera efectiva, identificando los puntos débiles y las oportunidades de una manera sistemática y directa. Para esta parte, simulamos una compra desde el portal de Ticketmaster para hacer nuestras propias anotaciones sobre el viaje de compra. También basamos el journey map en la experiencia de una de las personas entrevistadas. Fue preciso plantear el escenario en el que la boletera aparece en la experiencia total de Karen.
 
-Fue preciso plantear el escenario en el que la boletera aparece en la experiencia total de Karen. 
-
-El siguiente paso, fue mapear su travesía. En resumen:
+En resumen:
 
 * Su viaje comenzó cuando compró desde la página web de Ticketmaster (la única boletera que gestionaría su evento), una vez realizada su compra, tiene que ir a recoger sus boletos físicos y guardarlos muy bien. Viaja emocionada y llega a casa de un familiar, amigo o airbnb en la ciudad del evento. El día del evento, se da cuenta que no trae consigo el boleto. Se presenta en el recinto con la esperanza de comprar un boleto en reventa. Con suerte, lo obtiene y le cuesta más de lo que inicialmente gastó.
 
