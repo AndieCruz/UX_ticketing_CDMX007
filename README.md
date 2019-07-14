@@ -7,8 +7,6 @@ Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
 <a href="https://ibb.co/VDKWbzM"><img src="https://i.ibb.co/0Zwj16Y/Squad-TAMA-4-w-s.jpg" alt="Squad-TAMA-4-w-s" border="0"></a>
 
-
-### 5 why's?
 ### HMW
 * ¿Cómo podríamos eliminar la tensión que existe alrededor del boleto físico?
 * ¿Cómo podríamos hacer que Ticketmaster proporcione calma al usuario que se preocupa por no perder su boleto?
@@ -24,10 +22,11 @@ Una vez que desarrollamos nuestras preguntas a resolver, entramos a la etapa de 
 Surgieron dos grandes ideas:
 * Reducir la compra del evento a solo tres pasos en el sitio responsive web de Ticketmaster.
 * Generar un boleto digital personalizado que se guarda en la aplicación móvil Wallet Ticketmaster, de forma segura e intransferible.
+Y un WOW:
 * Brindarle al usuario un "Kit de supervivencia" con información valiosa y útil.
 
-### Value preposition canvas
-
+### Value proposition canvas
+![ValueProposition](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Value-Proposition.jpg)
 
 # Venta de boletos para espectáculos
 
