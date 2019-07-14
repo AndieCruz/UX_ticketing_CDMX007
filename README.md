@@ -114,6 +114,13 @@ El kit de supervivencia fue diseñado y desarrollado por [Nohemí Moreno](https:
 Aquí pueden consultar el [prototipo](https://marvelapp.com/i299gij/screen/58128021) final de nuestra solución.
 También realizamos un [vídeo](https://www.youtube.com/watch?v=D0Tu0t9STYA), en donde se puede ver como funciona el flujo de compra, cuando recibe el correo electrónico de confirmación en el cual incluye el "Kit de supervivencia" en PDF para que lo pueda descargar y finalmente cuando Karen desacarga la aplicación Wallet Ticketmaster en donde puede navegar y ver distintos eventos, consultar el "Kit de supervivencia" y almacenar su boleto digital del evento que compró de forma segura, lo puede consultar incluso *offline*. Su boleto estará activo en el tiempo establecido y se generará su código QR que le dará acceso al evento.
 
+# Autoras 👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+- Adriana Acosta [AdrianaPi](https://github.com/AdrianaPi)
+- Andrea Cruz Hernández - [AndieCruz](https://github.com/AndieCruz)
+- Talía GyG - [Unatal](https://github.com/UnaTal)
+- Nohemí Moreno [Mimilaos](https://github.com/Mimilaos)
+
+
 # Venta de boletos para espectáculos
 
 A muchas personas nos encantan los espectáculos: conciertos, obras de teatro, partidos de fútbol, partidos de basquetbol, circos, entre otros. Sin embargo, en muchos casos, conseguir boletos para estos espectáculos, no siempre es la mejor experiencia que podamos esperar en el 2019. 
