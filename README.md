@@ -62,7 +62,7 @@ Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedir
 
 [Test model canvas resultado de algunos flujos de compra](https://drive.google.com/open?id=1reiQx4DtdTM8Xn5GZ9jWgPaHfv8uRMFC)
 
-#User journey map
+### User journey map
 
 El mapeo de viaje del usuario es una forma de deconstruir la experiencia de un usuario con el servicio Ticketmaster, en este caso. Nos ayudó a pensar en las necesidades de los usuarios de manera efectiva, identificando los puntos débiles y las oportunidades de una manera sistemática y directa. Para esta parte, simulamos una compra desde el portal de Ticketmaster para hacer nuestras propias anotaciones sobre el viaje de compra. También basamos el journey map en la experiencia de una de las personas entrevistadas.
 
