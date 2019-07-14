@@ -41,9 +41,9 @@ Determinamos que nuestras personas objetivo serían aquellas con característica
 
 <a href="https://ibb.co/TtvX6D1"><img src="https://i.ibb.co/kXHnjVJ/lisi.png" alt="lisi" border="0"></a>
 
+### User Persona
 Tomando en consideración estas características, elaboramos un user persona.
-
-<a href="https://ibb.co/cg9dKTX"><img src="https://i.ibb.co/7YDFxyN/user-persona.jpg" alt="user-persona" border="0"></a>
+![UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
 
 Fue preciso plantear el escenario en el que la boletera aparece en la experiencia total de Karen. 
 
@@ -60,10 +60,6 @@ Karen viaja a cualquier parte del país para asistir a los grandes festivales, p
 <a href="https://ibb.co/RCGFrCs"><img src="https://i.ibb.co/JzW16zG/mapear.png" alt="mapear" border="0"></a>
 
 El punto focal es el boleto y ante una garantía que responsabiliza completamente a los usuarios sobre la posesión de los boletos, ¿qué pasaría si este deja de ser un punto de dolor? y sigue fomentando la memoria.
-
-### User Persona
-
-![UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
 
 ## Definición del problema
 A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD QUE EXISTE ALREDEDOR DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir, de principio a fin. 
