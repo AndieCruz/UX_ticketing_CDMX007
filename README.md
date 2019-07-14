@@ -1,6 +1,6 @@
 ### User Persona
 
-[UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
+![UserPersona](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Persona_Escenario.jpg)
 
 ## Definición del problema
 A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD QUE EXISTE ALREDEDOR DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir, de principio a fin. 
