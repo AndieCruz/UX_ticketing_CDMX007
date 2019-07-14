@@ -17,7 +17,7 @@ Una vez que desarrollamos nuestras preguntas a resolver, entramos a la etapa de 
 
 
 ### Cluster
-[url=https://imgbbb.com/image/3KCMr][img]https://imgbbb.com/images/2019/07/14/Cluster.jpg[/img][/url]
+![Cluster](https://imgbbb.com/images/2019/07/14/Cluster.jpg)
 
 
 ### Big ideas
