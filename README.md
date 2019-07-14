@@ -106,6 +106,8 @@ Surgieron dos grandes ideas:
 # Prototipo de Alta Fidelidad
 
 ![Pantallas](https://imgbbb.com/images/2019/07/14/prototipo.png)
+![KitSupervivencia](https://imgbbb.com/images/2019/07/14/Kit-corona.jpg)
+
 Realizamos el flujo de compra en tan solo tres pasos en la versión responsive del sitio web de Ticketmaster. El UI lo realizó mi compañera [Talía](https://github.com/UnaTal) y [Adriana Acosta](https://github.com/AdrianaPi). En este proyecto realicé el UI de la aplicación Wallet Ticketmaster, en donde Karen Ríos puede consultar su boleto digital y tenerlo de forma segura.
 El kit de supervivencia fue diseñado y desarrollado por [Nohemí Moreno](https://github.com/Mimilaos)
 
