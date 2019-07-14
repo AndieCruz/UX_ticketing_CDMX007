@@ -112,7 +112,7 @@ Realizamos el flujo de compra en tan solo tres pasos en la versión responsive d
 El kit de supervivencia fue diseñado y desarrollado por [Nohemí Moreno](https://github.com/Mimilaos)
 
 Aquí pueden consultar el [prototipo](https://marvelapp.com/i299gij/screen/58128021) final de nuestra solución.
-También realizamos un [vídeo](https://www.youtube.com/watch?v=D0Tu0t9STYA) del prototipo final, en donde se puede ver como funciona el flujo de compra, cuando recibe el correo electrónico de confirmación de compra en el cual incluye el "Kit de supervivencia" en PDF para que lo pueda descargar y finalmente cuando Karen desacarga la aplicación Wallet Ticketmaster en donde puede navegar y ver distintos eventos, consultar el "Kit de supervivencia" y almacenar su boleto digital del evento que compró. Su boleto estará activo en el tiempo establecido y se generará su código QR que le dará acceso al evento.
+También realizamos un [vídeo](https://www.youtube.com/watch?v=D0Tu0t9STYA), en donde se puede ver como funciona el flujo de compra, cuando recibe el correo electrónico de confirmación en el cual incluye el "Kit de supervivencia" en PDF para que lo pueda descargar y finalmente cuando Karen desacarga la aplicación Wallet Ticketmaster en donde puede navegar y ver distintos eventos, consultar el "Kit de supervivencia" y almacenar su boleto digital del evento que compró de forma segura, lo puede consultar incluso *offline*. Su boleto estará activo en el tiempo establecido y se generará su código QR que le dará acceso al evento.
 
 # Venta de boletos para espectáculos
 
