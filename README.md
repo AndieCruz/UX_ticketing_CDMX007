@@ -1,5 +1,5 @@
 ## Definición del problema
-A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir. 
+A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD QUE EXISTE ALREDEDOR DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir, de principio a fin. 
 
 Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 
@@ -22,11 +22,22 @@ Una vez que desarrollamos nuestras preguntas a resolver, entramos a la etapa de 
 Surgieron dos grandes ideas:
 * Reducir la compra del evento a solo tres pasos en el sitio responsive web de Ticketmaster.
 * Generar un boleto digital personalizado que se guarda en la aplicación móvil Wallet Ticketmaster, de forma segura e intransferible.
-Y un WOW:
+<br> Y un WOW:
 * Brindarle al usuario un "Kit de supervivencia" con información valiosa y útil.
 
 ### Value proposition canvas
 ![ValueProposition](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Value-Proposition.jpg)
+
+### Acciones a realizar
+
+* Eliminación del boleto físico por e-ticket
+* Mejora del flujo de compra en 3 pasos
+* Experiencia de usuario "TM te acompaña"
+* Seguridad antireventa
+
+### Flujo de contenido
+
+![FlujoDeContenido](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Flujo-de-Contenido.jpg)
 
 # Venta de boletos para espectáculos
 
