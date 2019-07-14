@@ -103,7 +103,7 @@ Surgieron dos grandes ideas:
 
 ![FlujoDeContenido](https://imgbbb.com/images/2019/07/14/Squad-TAMA---Flujo-de-Contenido.jpg)
 
-### Prototipo de Alta Fidelidad
+# Prototipo de Alta Fidelidad
 Realizamos el flujo de compra en tan solo tres pasos en la versión responsive del sitio web de Ticketmaster. El UI lo realizó mi compañera [Talía](https://github.com/UnaTal) y [Adriana Acosta](https://github.com/AdrianaPi). En este proyecto realicé el UI de la aplicación Wallet Ticketmaster, en donde Karen Ríos puede consultar su boleto digital y tenerlo de forma segura.
 El kit de supervivencia fue diseñado y desarrollado por [Nohemí Moreno](https://github.com/Mimilaos)
 
