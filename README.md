@@ -127,7 +127,7 @@ Pero para poder llegar a esta definición tuvimos que pasar por lo siguiente:
 * ¿Cómo podríamos hacer que Ticketmaster proporcione calma al usuario que se preocupa por no perder su boleto?
 
 Una vez que desarrollamos nuestras preguntas a resolver, entramos a la etapa de ideación.
-
+![Tali](https://imgbbb.com/images/2019/07/15/img_20190606_113520.jpg)
 ![Ideacion](https://imgbbb.com/images/2019/07/14/36aaaf58-b585-4bee-978a-ab9027ef4ece.jpg)
 
 ### Cluster
