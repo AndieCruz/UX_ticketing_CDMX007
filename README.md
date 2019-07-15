@@ -109,6 +109,10 @@ Karen viaja a cualquier parte del país para asistir a los grandes festivales, p
 
 El punto focal es el boleto y ante una garantía que responsabiliza completamente a los usuarios sobre la posesión de los boletos, ¿qué pasaría si este deja de ser un punto de dolor? y sigue fomentando la memoria.
 
+### Empathy Map
+Es una herramienta para articular lo que se sabe sobre un tipo particular de usuario, en este caso, Karen. Sus necesidades, objetivos, expectativas, comportamientos, puntos de dolor. Una vez que vaciamos la información sobre Karen en el mapa de empatía, lo utilizamos como herramienta para tomar las decisiones del reto de diseño a solucionar. Es decir, tomamos decisiones centradas en el usuario.
+![EmpathyMap](https://imgbbb.com/images/2019/07/15/empathy-map.jpg)
+
 # Definición del problema
 A través de la investigación y de las entrevistas con usuarios, llegamos a la conclusión de que un problema que se repetía entre los usuarios es la LA VULNERABILIDAD QUE EXISTE ALREDEDOR DEL BOLETO FÍSICO. Haciendo el Journey Map de un usuario en donde experimenta la tensión de cuidar su boleto todo el tiempo, de que no lo pierda u olvide; fue lo que nos inspiro para tratar de brindarle una solución y que el usuario no tenga que preocuparse por esto para que pueda disfrutar del evento al que tiene planeado ir, de principio a fin. 
 
