@@ -43,14 +43,16 @@ Comenzó con la oportunidad de hacer estudios de referencia de la industria tick
 
 Para empezar a conocer a los usuarios establecimos iniciar una investigación cuantitativa mediante un formulario / cuestionario escrito. Del cual recabamos 43 respuestas que nos permitió abordar los primeros aspectos emocionales y cognitivos de personas que han comprado boletos para eventos o espectáculos en plataformas digitales. 
 
-[Resultados de las 43 encuestas](https://drive.google.com/open?id=1IfPQ5F1rQf0Hq-ik-p-XmX5braHf5Otm)
+Resultados de las 43 encuestas: 
+![Resultados](https://imgbbb.com/images/2019/07/15/Squad-TAMA---Analisis-de-resultado-de-encuesta.jpg)
+
 
 
 ### Benchmark
 
 Nos enfocamos en la búsqueda de patrones y tendencias de otras plataformas para comparar y revisar los flujos de compra así como de diseño visual y de interfaz para ayudar a nuestros usuarios a encontrar cuál es el mejor para su experiencia de compra. Por lo que hicimos una evaluación profunda de la experiencia de usuario y simulación de compra ofrecida de más de tres empresas líderes. 
-
-[Utilizamos una cuadrícula de 11 criterios para evaluar la experiencia del usuario ofrecida por los proveedores de ticketing incluídos en nuestro estudio](https://drive.google.com/open?id=1t3GJfYVaidFsPfmZPauM_zh9denh-3IQ)
+Utilizamos una cuadrícula de 11 criterios para evaluar la experiencia del usuario ofrecida por los proveedores de ticketing incluídos en nuestro estudio.
+![Benchmarck](https://imgbbb.com/images/2019/07/15/Squad-TAMA---Benchmark.jpg)
 
 
 ### Entrevistas y tests de usabilidad
