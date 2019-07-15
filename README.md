@@ -59,10 +59,10 @@ Utilizamos una cuadrícula de 11 criterios para evaluar la experiencia del usuar
 
 Al encontrarnos con que la plataforma de Ticketmaster tenía severos pains de flujo de compra como de diseño visual de la misma. Para develar las emociones reales de nuestros usuarios y con el objetivo de profundizar en entender la lógica cognitiva y de comportamientos de los encuestados, entrevistamos a cinco personas donde les pedimos información fundamental que pudiesen llegar a encontrar al usar la plataforma actual de Ticketmaster. Se les pidió que compraran un boleto para Corona Capital 2019 y utilizamos la herramienta “Think Out Loud” donde ellos compartían en voz alta lo que iban sintiendo o pensando de lo que estaba aconteciendo. Terminando las entrevistas recopilamos, analizamos la información obtenida.
 Dicho test de usabilidad fue un “test de guerrilla”, donde se trata de pedirle al usuario que realice una tarea y al menos con cinco usuarios podemos detectar el 85% de errores de usabilidad. El camino que continuaba era encontrar maneras de reducir ese 85% de errores para centrarnos en encontrar alguno de gran impacto para el mayor número de personas usuarias. 
-### Insights
-![Insights](https://imgbbb.com/images/2019/07/15/Squad-TAMA---Clusters-de-Entrevistas.jpg)
 
-### User journey map
+### Insights
+
+![Insights](https://imgbbb.com/images/2019/07/15/Squad-TAMA---Clusters-de-Entrevistas.jpg)
 
 # Define 
 
